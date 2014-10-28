@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
   <title><![CDATA[My Octopress Blog]]></title>
+=======
+  <title><![CDATA[My Octopress Blog]]></title>
+>>>>>>> ec7f4dc36b36d94f903992054317b7d91d919b26
   <link href="http://EricWang0325.github.io/atom.xml" rel="self"/>
   <link href="http://EricWang0325.github.io/"/>
-  <updated>2014-10-28T04:25:16+08:00</updated>
+  <updated>2014-10-28T18:40:27+08:00</updated>
   <id>http://EricWang0325.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,16 +18,39 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Epoch-SaaS]]></title>
-    <link href="http://EricWang0325.github.io/blog/2014/10/28/epoch-saas/"/>
-    <updated>2014-10-28T04:21:12+08:00</updated>
-    <id>http://EricWang0325.github.io/blog/2014/10/28/epoch-saas</id>
+<<<<<<< HEAD
+    <title type="html"><![CDATA[test1]]></title>
+=======
+    <title type="html"><![CDATA[Test1]]></title>
+>>>>>>> ec7f4dc36b36d94f903992054317b7d91d919b26
+    <link href="http://EricWang0325.github.io/blog/2014/10/28/test1/"/>
+    <updated>2014-10-28T18:38:17+08:00</updated>
+    <id>http://EricWang0325.github.io/blog/2014/10/28/test1</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
+<<<<<<< HEAD
+    <title type="html"><![CDATA[Epoch-SaaS]]></title>
+=======
+    <title type="html"><![CDATA[Epoch-SaaS]]></title>
+>>>>>>> ec7f4dc36b36d94f903992054317b7d91d919b26
+    <link href="http://EricWang0325.github.io/blog/2014/10/28/epoch-saas/"/>
+    <updated>2014-10-28T04:21:12+08:00</updated>
+    <id>http://EricWang0325.github.io/blog/2014/10/28/epoch-saas</id>
+    <content type="html"><![CDATA[<h1>HI</h1>
+
+<h1>ERIC</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[how-to-install-octopress]]></title>
+=======
+    <title type="html"><![CDATA[How-to-install-octopress]]></title>
+>>>>>>> ec7f4dc36b36d94f903992054317b7d91d919b26
     <link href="http://EricWang0325.github.io/blog/2014/10/28/how-to-install-octopress/"/>
     <updated>2014-10-28T01:07:42+08:00</updated>
     <id>http://EricWang0325.github.io/blog/2014/10/28/how-to-install-octopress</id>
