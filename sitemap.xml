@@ -11,14 +11,6 @@
   </url>
   
   <url>
-    <loc>http://EricWang0325.github.io/blog/2014/10/28/epoch-saas/</loc>
-    
-    <lastmod>2014-10-28T04:21:12+08:00</lastmod>
-    
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
     <loc>http://EricWang0325.github.io/blog/2014/10/28/how-to-install-octopress/</loc>
     
     <lastmod>2014-10-28T01:07:42+08:00</lastmod>
@@ -29,14 +21,14 @@
   
   <url>
     <loc>http://EricWang0325.github.io/blog/archives/</loc>
-    <lastmod>2014-10-28T18:40:27+08:00</lastmod>
+    <lastmod>2014-10-28T18:50:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://EricWang0325.github.io/</loc>
-    <lastmod>2014-10-28T18:40:27+08:00</lastmod>
+    <lastmod>2014-10-28T18:50:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
