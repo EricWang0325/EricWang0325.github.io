@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://EricWang0325.github.io/atom.xml" rel="self"/>
   <link href="http://EricWang0325.github.io/"/>
-  <updated>2014-10-28T18:50:34+08:00</updated>
+  <updated>2014-10-28T18:54:11+08:00</updated>
   <id>http://EricWang0325.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,20 +14,31 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test1]]></title>
-    <link href="http://EricWang0325.github.io/blog/2014/10/28/test1/"/>
-    <updated>2014-10-28T18:38:17+08:00</updated>
-    <id>http://EricWang0325.github.io/blog/2014/10/28/test1</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[how-to-install-octopress]]></title>
     <link href="http://EricWang0325.github.io/blog/2014/10/28/how-to-install-octopress/"/>
     <updated>2014-10-28T01:07:42+08:00</updated>
     <id>http://EricWang0325.github.io/blog/2014/10/28/how-to-install-octopress</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test1]]></title>
+    <link href="http://EricWang0325.github.io/blog/2014/10/28/test1/"/>
+    <updated>2014-10-28T00:00:00+08:00</updated>
+    <id>http://EricWang0325.github.io/blog/2014/10/28/test1</id>
+    <content type="html"><![CDATA[<h1>HI  </h1>
+
+<h2>MY NAME IS ERIC</h2>
+
+<hr />
+
+<p>layout: post
+title: &ldquo;test1&rdquo;
+date: 2014-10-28 18:38:17 +0800
+comments: true</p>
+
+<h2>categories: </h2>
 ]]></content>
   </entry>
   

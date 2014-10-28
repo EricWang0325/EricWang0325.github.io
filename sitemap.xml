@@ -3,14 +3,6 @@
   
   
   <url>
-    <loc>http://EricWang0325.github.io/blog/2014/10/28/test1/</loc>
-    
-    <lastmod>2014-10-28T18:38:17+08:00</lastmod>
-    
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
     <loc>http://EricWang0325.github.io/blog/2014/10/28/how-to-install-octopress/</loc>
     
     <lastmod>2014-10-28T01:07:42+08:00</lastmod>
@@ -18,17 +10,25 @@
     <priority>0.8</priority>
   </url>
   
+  <url>
+    <loc>http://EricWang0325.github.io/blog/2014/10/28/test1/</loc>
+    
+    <lastmod>2014-10-28T00:00:00+08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
   
   <url>
     <loc>http://EricWang0325.github.io/blog/archives/</loc>
-    <lastmod>2014-10-28T18:50:34+08:00</lastmod>
+    <lastmod>2014-10-28T18:54:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://EricWang0325.github.io/</loc>
-    <lastmod>2014-10-28T18:50:34+08:00</lastmod>
+    <lastmod>2014-10-28T18:54:11+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
